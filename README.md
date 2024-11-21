@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="HSTU_Logo.png" alt="HSTU Logo" width="250" height="300">
+  <img src="HSTU Logo.png" alt="HSTU Logo" width="250" height="300">
 </p>
 <h3 align="center">
   Hajee Mohammad Danesh Science and Technology University,Dinajpur-5200.
