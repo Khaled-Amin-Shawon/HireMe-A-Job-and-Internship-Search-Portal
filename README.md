@@ -27,22 +27,21 @@ Project Name: CSE Department Event Management System
 
 
 <br><br><br>
-
+---
 
 <p align="center">
   <img src="logo.png" alt="Logo" width="250" height="250">
 </p>
 
 <br><br>
-
 <h1 align="center">HireMe : A Job and Internship Search Portal</h1>
+
 
 ## **Abstract**
 
 _HireMe_ is an innovative web platform designed to streamline the job and internship search process by connecting job seekers with employers. It offers an efficient system where job seekers can browse listings, create profiles, and apply for opportunities, while employers can post job openings and review applications. With an integrated web scraping feature, _HireMe_ automatically gathers up-to-date job listings from external sources, ensuring users have access to the latest opportunities. The platform is built to enhance the recruitment experience through a seamless, user-friendly interface that combines automation with advanced search capabilities.
 
 
----
 
 ## **Introduction**
 _HireMe_ is a dynamic web-based platform developed to simplify the job and internship search process for job seekers and employers alike. The platform provides an intuitive interface where users can easily find and apply for job opportunities, while employers can post job openings and manage applications. A key feature of _HireMe_ is its integration of automated web scraping, which continuously collects and updates job listings from various external websites, ensuring that the database remains current and relevant. The platform is designed to cater to job seekers, employers, and administrators, offering a streamlined experience for all parties involved. With a focus on user-friendly navigation and real-time data, _HireMe_ aims to create an efficient, scalable, and reliable solution for modern job hunting and recruitment.
