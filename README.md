@@ -5,7 +5,7 @@
   Hajee Mohammad Danesh Science and Technology University,Dinajpur-5200.
 </h3>
 <h3 align="center">
-Project Name: CSE Department Event Management System
+Project Name: HireMe : A Job and Internship Search Portal
 </h3>
 
 <h3 align="center">
