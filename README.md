@@ -33,24 +33,27 @@ Project Name: CSE Department Event Management System
   <img src="logo.png" alt="Logo" width="250" height="250">
 </p>
 
+
+The README file appears to be a comprehensive document detailing the development process, objectives, and features of the _HireMe_ project. Below is a concise index of its contents:
+
 ----------
 
 # Index 
 1.  **HireMe Project Overview**
-    -  [ Abstract](Abstract)
-    -   [Introduction](Introduction)
-    -   [Project Objectives](Project%20Objectives)
-2.  **[Required Tools and Technologies](Required%20Tools%20and%20Technologies)**
-6.  **[Agile Methodology for HireMe](Agile%20Methodology%20for%20HireMe)**
-       - **[Planning Phase](Planning%20Phase)**
-       - **[Design Phase](Design%20Phase)**
-      - **[Development Phase](Development%20Phase)**
-      - **[Testing Phase](Testing%20Phase)**
-      - **[Deployment Phase](Deployment%20Phase)**
-  -    **[Maintenance Phase](Maintenance%20Phase)**
-4.  **[Gantt Chart](Gantt%20Chart)**
-5.  **[Future Work](Future%20Work)**
-7.  **[Conclusion](Conclusion)**
+    -  [ Abstract](#Abstract)
+    -   [Introduction](#Introduction)
+    -   [Project Objectives](#Project-Objectives)
+2.  **[Required Tools and Technologies](#Required-Tools-and-Technologies)**
+6.  **[Agile Methodology for HireMe](#Agile-Methodology-for-HireMe)**
+       - **[Planning Phase](#Planning-Phase)**
+       - **[Design Phase](#Design-Phase)**
+      - **[Development Phase](#Development-Phase)**
+      - **[Testing Phase](#Testing-Phase)**
+      - **[Deployment Phase](#Deployment-Phase)**
+  -    **[Maintenance Phase](#Maintenance-Phase)**
+4.  **[Gantt Chart](#Gantt-Chart)**
+5.  **[Future Work](#Future-Work)**
+7.  **[Conclusion](#Conclusion)**
 
 ----------
 
@@ -167,7 +170,7 @@ To develop the _HireMe_ platform, the following tools and technologies are requi
    <p align="center">
   <img src="agile.png" alt="agile model" width="750" height="450">
 </p>
-----------
+
 
 <h1 align="center">SDLC phases apply to HireMe : A Job and Internship Search Portal </h1>
 
