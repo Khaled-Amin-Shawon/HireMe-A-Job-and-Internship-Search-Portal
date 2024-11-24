@@ -42,17 +42,17 @@ The README file appears to be a comprehensive document detailing the development
 1.  **HireMe Project Overview**
     -  [ Abstract](#Abstract)
     -   [Introduction](#Introduction)
-    -   [Project Objectives](#Project-Objectives)
-2.  **[Required Tools and Technologies](#Required-Tools-and-Technologies)**
+    -   [Objectives](#Objective)
+2.  **[Required Tools and Technologies](#Required-tools)**
 6.  **[Agile Methodology for HireMe](#Agile-Methodology-for-HireMe)**
        - **[Planning Phase](#Planning-Phase)**
        - **[Design Phase](#Design-Phase)**
       - **[Development Phase](#Development-Phase)**
       - **[Testing Phase](#Testing-Phase)**
       - **[Deployment Phase](#Deployment-Phase)**
-  -    **[Maintenance Phase](#Maintenance-Phase)**
-4.  **[Gantt Chart](#Gantt-Chart)**
-5.  **[Future Work](#Future-Work)**
+      - **[Maintenance Phase](#Maintenance-Phase)**
+4.  **[Gantt Chart](#Gantt-Chart-Representation)**
+5.  **[Future Work](#Future-Work-for-the-HireMe-Project)**
 7.  **[Conclusion](#Conclusion)**
 
 ----------
@@ -693,33 +693,8 @@ The testing phase ensures that the *HireMe* job and internship portal is free of
 
 ----------
 
-# Launch and Review Phase
 
-###  Launch
-
--   **Go Live**: Officially launch the _HireMe_ platform to the public after completing deployment and post-deployment testing.
--   **User Onboarding**: Guide new users (job seekers and employers) through the registration process and platform features.
--   **Monitor Performance**: Keep an eye on the platform’s performance, including server uptime, page load times, and resource usage.
-
-### Review
-
--   **Feedback Collection**: Gather feedback from initial users to identify any issues, challenges, or areas for improvement.
-    
-    -   This can include surveys, user testing, or direct feedback channels on the platform.
--   **Bug Fixes & Improvements**: Based on user feedback and monitoring data, quickly address any bugs, glitches, or missing features to improve the user experience.
-    
--   **Performance Optimization**: If the system is handling high traffic, optimize areas such as database queries, server load, and page rendering speed.
-    
-
-###  Post-Launch Monitoring
-
--   **Continuous Monitoring**: Use analytics tools to track usage, error rates, and user behavior to ensure the platform remains stable and user-friendly.
--   **Regular Updates**: Plan periodic updates to add new features, improve security, and resolve any issues based on ongoing user feedback.
-
-----------
-
-
-# 1. Maintenance Phase
+#  Maintenance Phase
 
 The **Maintenance** phase ensures the _HireMe_ platform remains functional, secure, and up-to-date throughout its lifecycle.
 
