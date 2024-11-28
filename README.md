@@ -44,7 +44,7 @@ The README file appears to be a comprehensive document detailing the development
     -   [Introduction](#Introduction)
     -   [Objectives](#Objective)
 2.  **[Required Tools and Technologies](#Required-tools)**
-6.  **[Agile Methodology for HireMe](#Agile-Methodology-for-HireMe)**
+6.  **[Agile Methodology for HireMe](#Why-Agile-is-the-Best-Fit)**
        - **[Planning Phase](#Planning-Phase)**
        - **[Design Phase](#Design-Phase)**
       - **[Development Phase](#Development-Phase)**
@@ -91,7 +91,7 @@ The objective of _HireMe_ is to create an efficient and user-friendly platform t
 6.  **Scalability and Security**: Building a platform that can handle an increasing number of users and job listings while maintaining data security and privacy.
     
 
-## Required tools :
+## **Required tools**
 To develop the _HireMe_ platform, the following tools and technologies are required:
 
 ### **1. Programming Languages:**
